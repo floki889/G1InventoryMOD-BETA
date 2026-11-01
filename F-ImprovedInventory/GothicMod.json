@@ -1,0 +1,12 @@
+{
+	"name": "F-ImprovedInventory",
+	"title": "Improved Inventory",
+	"author": "Floki",
+	"projectWebsiteURL": "",
+	"description": "A better inventory: a Sort button that groups your items by category (hotbar items first), drag and drop to swap items (your order is kept per save game), and an always-visible scroll bar next to the item grid.",
+	"modVersion": "1.3.6",
+	"scriptPreprocessorDefines": [],
+	"tags": [],
+	"loadOrder": "Normal",
+	"dependencies": []
+}
